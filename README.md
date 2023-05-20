@@ -1,2 +1,2 @@
 # MercadoPy
-Mercado feito em Python
+Sistema de Mercado feito em Python
